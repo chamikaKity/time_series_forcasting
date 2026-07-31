@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE
+Naive (persistence),29.82,39.426,0.621
+"ARIMA(3,1,2)",30.602,40.239,0.637
+XGBoost (return target),29.786,39.484,0.619
+LSTM (return target),29.655,39.264,0.618
